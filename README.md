@@ -5,7 +5,7 @@ It also shows the total number of new cases coming in the India everyday and Sta
 
 
 - Live Link : https://covid-counting.netlify.app/
-- API used :  https://api.covid19india.org/ and https://apisetu.gov.in/
+- API used :  https://api.covid19india.org/ and https://apisetu.gov.in/public/api/cowin
 
 ## Stay safe, Stay home and Participate in the Vaccination Drive.
 
